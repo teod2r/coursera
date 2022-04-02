@@ -4,12 +4,13 @@
     font-family:Arial, Helvetica, sans-serif
 }
   div {
-      width: 33%;
-      height: 33%;
+      width: 43%;
+      height: 43%;
       border: black solid 2px;
       margin: 20px;
       background-color: gray;
       text-overflow: hidden;
+      position:relative
       
   }
   .head1 {
@@ -61,7 +62,7 @@
       width: 16.66%;
     }
     .col-lg-3 {
-      width: 25%;
+      width: 29%;
     }
     .col-lg-4 {
       width: 33.33%;
@@ -112,7 +113,7 @@
       width: 33.33%;
     }
     .col-md-5 {
-      width: 41.66%;
+      width: 44.66%;
     }
     .col-md-6 {
       width: 50%;
@@ -130,7 +131,7 @@
       width: 83.33%;
     }
     .col-md-11 {
-      width: 88%;
+      width: 93.5%;
     }
     .col-md-12 {
       width: 100%;
